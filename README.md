@@ -3,7 +3,7 @@
 
 I am a student in the Business Analytics and Project Management program at the University of Connecticut and an aspiring Data Analyst with experience in SQL, Python, Excel, Tableau.
 
-My projects focus on database design, business reporting, dashboard development and predictive modeling. This GitHub portfolio showcases work in data analytics.
+My projects focus on database design, business reporting, dashboard development and predictive modeling.
 
 ### Current Projects
 
