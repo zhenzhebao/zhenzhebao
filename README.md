@@ -9,13 +9,6 @@ I built various projects to gain experience in revealing insights from raw data.
 
 For my most recent project, I worked on U.S. flight data. It combines data cleaning, database design, SQL reports, and Tableau dashboards to reveal U.S. air travel patterns in 2015.
 
-
-### Current Projects
-
-* Customer Churn Analysis (Python)
-* Online Retail Sales Analysis (SQL)
-* Online Retail Sales Dashboard (Excel)
-
 ## Technical Skills
 
 ### Languages
