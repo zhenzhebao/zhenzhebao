@@ -7,7 +7,7 @@ I find this field fascinating because it challenges me to establish clarity thro
 
 I built various projects to gain experience in revealing insights from raw data. The data was retrieved from various sources, then a relational database was built in PostgreSQL for information storage or a data warehouse was built in Snowflake for analytical reporting. After that, various SQL reports were written to conduct detailed analysis. I also had experience discussing my analysis by telling an engaging story, intentionally designing Tableau dashboards to highlight important findings and present the results visually.
 
-For my most recent project, I worked on U.S. flight data. It combines data cleaning, database design, SQL reports, REST API integration, and Tableau dashboards to reveal U.S. air travel patterns in 2015.
+I also had experience developing an AI agent for data analysis. I built a Python command-line application that allows users without prior SQL knowledge to interact with an LLM using natural language to analyze data stored in an existing PostgreSQL database.
 
 ## Technical Skills
 
