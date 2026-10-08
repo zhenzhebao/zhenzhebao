@@ -27,6 +27,12 @@ I also had experience developing an AI agent for data analysis. I built a Python
 ### Data Analysis & Modeling
 - Predictive Modeling (Classification & Regression)
 
+### AI & Application Development
+- AI Agent Development
+- Python Application Development
+- LLM Tool Calling & Structured Outputs
+- Prompt Engineering
+
 ### Tools
 - PostgreSQL
 - Snowflake
@@ -40,6 +46,9 @@ I also had experience developing an AI agent for data analysis. I built a Python
 - NumPy
 - Scikit-learn
 - Matplotlib
+- OpenAI Python SDK
+- Request
+- Psycopg
 
 <!--
 **OPIM5512-zhb17002/OPIM5512-zhb17002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
