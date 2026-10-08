@@ -1,7 +1,7 @@
 # About me
 *Hi, This is Zhenzhe 👋*
 
-I am a recent graduate of Business Analytics and Project Management program at the University of Connecticut and am interested in building a career working with data. 
+I am a recent graduate of Business Analytics and Project Management program at the University of Connecticut and I am interested in building a career working with data. 
 
 I find this field fascinating because it challenges me to establish clarity through uncertainty, encourages me to think about questions from different perspectives, and to present conclusions based on evidence.
 
