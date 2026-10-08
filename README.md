@@ -47,7 +47,7 @@ I also had experience developing an AI agent for data analysis. I built a Python
 - Scikit-learn
 - Matplotlib
 - OpenAI Python SDK
-- Request
+- Requests
 - Psycopg
 
 <!--
